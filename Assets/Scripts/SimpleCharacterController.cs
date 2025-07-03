@@ -5,7 +5,7 @@ using UnityEngine.InputSystem;
 public class SimpleCharacterController : MonoBehaviour
 {
     public float moveSpeed = 5f;
-    public float lookSpeed = 2f;
+    public float lookSpeed = 10f;
     public float jumpForce = 5f;
     public float gravity = -9.81f;
 
